@@ -8,58 +8,58 @@
  */
 
 /* Core variables and mixins */
-@import "variables.css";
-@import "mixins.css";
+@import url("variables.css");
+@import url("mixins.css");
 
 /* CSS Reset */
-@import "reset.css";
+@import url("reset.css");
 
 /* Grid system and page structure */
-@import "scaffolding.css";
-@import "grid.css";
-@import "layouts.css";
+@import url("scaffolding.css");
+@import url("grid.css");
+@import url("layouts.css");
 
 /* Base CSS */
-@import "type.css";
-@import "code.css";
-@import "forms.css";
-@import "tables.css";
+@import url("type.css");
+@import url("code.css");
+@import url("forms.css");
+@import url("tables.css");
 
 /* Components: common */
-@import "sprites.css";
-@import "dropdowns.css";
-@import "wells.css";
-@import "component-animations.css";
-@import "close.css";
+@import url("sprites.css");
+@import url("dropdowns.css");
+@import url("wells.css");
+@import url("component-animations.css");
+@import url("close.css");
 
 /* Components: Buttons & Alerts */
-@import "buttons.css";
-@import "button-groups.css";
-@import "alerts.css";
+@import url("buttons.css");
+@import url("button-groups.css");
+@import url("alerts.css");
 
 /* Components: Nav */
-@import "navs.css";
-@import "navbar.css";
-@import "breadcrumbs.css";
-@import "pagination.css";
-@import "pager.css";
+@import url("navs.css");
+@import url("navbar.css");
+@import url("breadcrumbs.css");
+@import url("pagination.css");
+@import url("pager.css");
 
 /* Components: Popovers */
-@import "modals.css";
-@import "tooltip.css";
-@import "popovers.css";
+@import url("modals.css");
+@import url("tooltip.css");
+@import url("popovers.css");
 
 /* Components: Misc */
-@import "thumbnails.css";
-@import "media.css";
-@import "labels-badges.css";
-@import "progress-bars.css";
-@import "accordion.css";
-@import "carousel.css";
-@import "hero-unit.css";
+@import url("thumbnails.css");
+@import url("media.css");
+@import url("labels-badges.css");
+@import url("progress-bars.css");
+@import url("accordion.css");
+@import url("carousel.css");
+@import url("hero-unit.css");
 
 /* Utility classes */
-@import "utilities.css";
+@import url("utilities.css");
 
 /* Responsive */
-@import "responsive.css";
+@import url("responsive.css");
